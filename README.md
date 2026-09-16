@@ -1,7 +1,7 @@
 # French-Danish  and Danish-French dictd dictionaries
 Comprehensive dictd dictionaries for French-Danish and Danish-French
 
-This repository contains dictionaries for the command-line and server utility `dictd`. Covering approximately 227,000 French entries and 59.000 Danish entries. The difference in numbers stem from the French-Danish dictionary containing many entries that are inflected words. These dictionaries have full International Phonetic Alphabet (IPA) phonetic transcriptions for **both** French and Danish.
+This repository contains dictionaries for the command-line and server utility `dictd`. Covering approximately 227,000 French entries and 59.000 Danish entries. The difference in numbers is due to the French-Danish dictionary containing many entries that are inflected words. These dictionaries have full International Phonetic Alphabet (IPA) phonetic transcriptions for **both** French and Danish.
 
 ## Features
 - **Dual Pronunciation (IPA):** Features native French pronunciation (from Lexique) and Danish pronunciation (from Udtaleordbog.dk).
