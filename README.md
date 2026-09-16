@@ -1,4 +1,4 @@
-# French-Danish  and Danish-french dictd dictionaries
+# French-Danish  and Danish-French dictd dictionaries
 Comprehensive dictd dictionaries for French-Danish and Danish-French
 
 This repository dictionaries for the command-line and server utility `dictd`. Covering approximately 230,000 entries, these dictionaries are uniquely enriched with full International Phonetic Alphabet (IPA) phonetic transcriptions for **both** French and Danish.
@@ -107,7 +107,7 @@ This project is a data compilation (a derivative work) merging several independe
 
 ### 4. French to Danish translations
 - **Source:** Various, some of it is my own work and some of it is of unknown origin with no information about copyright or licence. If anyone recognizes anything that might constitute copyright infringement, please contact me.
-- **License:**MIT License**, permitting unrestricted use, modification, and sharing.
+- **License:** MIT License**, permitting unrestricted use, modification, and sharing.
 
 ### Project Utility Scripts
 The building tools included in this repository (`fransk-dansk.py`, `dansk-fransk.py`) and the `Makefile` are licensed under the **MIT License**, permitting unrestricted use, modification, and sharing.
